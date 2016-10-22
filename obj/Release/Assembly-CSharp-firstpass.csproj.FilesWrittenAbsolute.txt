@@ -1,0 +1,17 @@
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Assembly-CSharp-firstpass.dll.mdb
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Assembly-CSharp-firstpass.dll
+/Users/maureenroble/Desktop/RollerMadness/obj/Release/Assembly-CSharp-firstpass.dll
+/Users/maureenroble/Desktop/RollerMadness/obj/Release/Assembly-CSharp-firstpass.dll.mdb
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/UnityEngine.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/UnityEditor.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/UnityEngine.Networking.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/UnityEngine.UI.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Mono.Cecil.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Unity.SerializationLogic.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Unity.DataContract.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/ICSharpCode.NRefactory.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Unity.UNetWeaver.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Unity.UNetWeaver.dll.mdb
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Unity.CecilTools.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Mono.Cecil.Pdb.dll
+/Users/maureenroble/Desktop/RollerMadness/Temp/bin/Release/Mono.Cecil.Mdb.dll
